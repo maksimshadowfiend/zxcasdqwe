@@ -13,5 +13,8 @@
 ## Окно входа:
 ![alt text](image-1.png)
 
+## Вход в удаленный доступ
+![alt text](image-3.png)
+
 ## Загрузка данного скриншота по ssh и скачивание файла 1.txt из каталога letunov/:
 ![alt text](image-2.png)
