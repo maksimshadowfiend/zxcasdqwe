@@ -58,8 +58,8 @@ taskkill /IM notepad.exe
 выполнению лабораторной работы
  ![alt text](image-2.png)
 
-ЧЕРЕЗ ДИСПЕТЧЕР:
-![alt text](image-3.png)
+ ЧЕРЕЗ ДИСПЕТЧЕР:
+ ![alt text](image-3.png)
 
-ЧЕРЕЗ CMD:
-![alt text](image-4.png)
+ ЧЕРЕЗ CMD:
+ ![alt text](image-4.png)
